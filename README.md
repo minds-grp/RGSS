@@ -1,6 +1,6 @@
 # RGSS
 
-By [Abolfazl Hashemi](https://www.linkedin.com/in/abolfazlh/), [Mahsa Ghasemi](), [Haris Vikalo](http://users.ece.utexas.edu/~hvikalo/), and [Ufuk Topcu]().
+By [Abolfazl Hashemi](https://www.linkedin.com/in/abolfazlh/), [Mahsa Ghasemi](https://www.linkedin.com/in/mahsa-ghasemi-247a3186), [Haris Vikalo](http://users.ece.utexas.edu/~hvikalo/), and [Ufuk Topcu](https://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page).
 
 ### Table of Contents
 0. [Introduction](#introduction)
