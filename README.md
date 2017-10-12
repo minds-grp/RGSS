@@ -24,3 +24,5 @@ If you use RGSS in your research, please cite:
         }
         
 ### MATLAB implementation
+
+The MATLAB function ```sensor_selection.m``` is the implementation of both greedy and proposed randomized greedy schemes for sensor selection. The file ```sdp_relax.m``` is the implementation of proposed SDP method.
