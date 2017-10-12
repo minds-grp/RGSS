@@ -15,5 +15,12 @@ By [Abolfazl Hashemi](https://www.linkedin.com/in/abolfazlh/), [Mahsa Ghasemi](h
 
 If you use RGSS in your research, please cite:
 
+        @article{hashemi2017rand,
+            title={A Randomized Greedy Algorithm for Near-Optimal Sensor Scheduling in Large-Scale Sensor Networks},
+            author={Hashemi, Abolfazl and Ghasemi, Mahsa and Vikalo, Haris and Topcu, Ufuk},
+            journal={arXiv preprint arXiv: 1709.08823},
+            pages={1-9},
+            year={2017}
+        }
         
 ### MATLAB implementation
