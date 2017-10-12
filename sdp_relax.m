@@ -1,5 +1,8 @@
 function [mse,val,indices]=sdp_relax(A,k,P,sigma)
-%tic;
+% sigma is noise power
+% P is covariance matrix of x
+% k number of sensors to select
+% A is the measurement matrix
 [n,m]=size(A);
 I =eye(m);
 cvx_begin sdp quiet
