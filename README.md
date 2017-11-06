@@ -15,12 +15,13 @@ In this repository, we release the MATLAB implementaation of our proposed random
 
 If you use RGSS in your research, please cite:
 
-@article{hashemi2016sparse,
-  title={Sparse recovery via Orthogonal Least-Squares under presence of Noise},
-  author={Hashemi, Abolfazl and Vikalo, Haris},
-  journal={arXiv preprint arXiv:1608.02554},
-  year={2016}
-}
+        @article{hashemi2017rand,
+            title={A Randomized Greedy Algorithm for Near-Optimal Sensor Scheduling in Large-Scale Sensor Networks},
+            author={Hashemi, Abolfazl and Ghasemi, Mahsa and Vikalo, Haris and Topcu, Ufuk},
+            journal={arXiv preprint arXiv: 1709.08823},
+            pages={1-9},
+            year={2017}
+        }
         
 ### MATLAB implementation
 
