@@ -9,7 +9,7 @@ By [Abolfazl Hashemi](https://www.linkedin.com/in/abolfazlh/), [Mahsa Ghasemi](h
 
 ### Introduction
 
-**Note**
+In this repository, we release the MATLAB implementaation of our proposed randomized greedy algorithm for large-scale sensor scheduling. In our work, we also show that the mean square error (MSE) objective of the linear estimator of states in a linear dynamical system is weak submodular under mild conditions.   
 
 ### Citation
 
@@ -25,4 +25,4 @@ If you use RGSS in your research, please cite:
         
 ### MATLAB implementation
 
-The MATLAB function ```sensor_selection.m``` is the implementation of both greedy and proposed randomized greedy schemes for sensor selection. The file ```sdp_relax.m``` is the implementation of proposed SDP method.
+The MATLAB function ```sensor_selection.m``` is the implementation of both greedy and proposed randomized greedy schemes for sensor selection. The file ```sdp_relax.m``` is the implementation of the proposed SDP method.
