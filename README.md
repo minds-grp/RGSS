@@ -9,7 +9,7 @@ By [Abolfazl Hashemi](https://www.linkedin.com/in/abolfazlh/), [Mahsa Ghasemi](h
 
 ### Introduction
 
-In this repository, we release the MATLAB implementaation of our proposed randomized greedy algorithm for large-scale sensor scheduling. In our work, we also show that the mean square error (MSE) objective of the linear estimator of states in a linear dynamical system is weak submodular under mild conditions.   
+In this repository, we release the MATLAB implementation of our proposed randomized greedy algorithm for large-scale sensor scheduling. In our work, we also show that the mean square error (MSE) objective of the linear estimator of states in a linear dynamical system is weak submodular under mild conditions.   
 
 ### Citation
 
